@@ -1,4 +1,5 @@
 
+
 forEach: BoundedContext
 fileName: main.go
 path: {{name}}
@@ -8,7 +9,7 @@ package main
 import(
 	"log"
 	"{{name}}/{{name}}"
-	"{{name}}/config2"
+	"{{name}}/config"
 )
 
 func main() {
